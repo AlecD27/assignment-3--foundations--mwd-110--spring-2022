@@ -13,11 +13,11 @@ header {
 }
 main {
   padding: 40px;
-  font-family: 'Work Sans', cursive;
+  font-family: 'IBM Plex Sans', sans-serif;
   color: #3b0000;
 }
 footer {
-  font-family: 'Work Sans', cursive;
+  font-family: 'IBM Plex Sans', sans-serif;
   padding: 40px;
 }
 p {
